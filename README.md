@@ -4,7 +4,7 @@ This README provides a comprehensive guide for setting up and managing Laravel q
 
 ## Table of Contents
 
-1. [Overview of Laravel Queue Workers](#overview-of-laravel-queue-workers)
+1. [Overview of Laravel Queue Workers](#1-overview-of-laravel-queue-workers)
 2. [Setting Up Supervisor for Laravel Workers](#setting-up-supervisor-for-laravel-workers)
    - [Installing Supervisor](#installing-supervisor)
    - [Configuring Workers](#configuring-workers)
