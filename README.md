@@ -5,15 +5,15 @@ This README provides a comprehensive guide for setting up and managing Laravel q
 ## Table of Contents
 
 1. [Overview of Laravel Queue Workers](#1-overview-of-laravel-queue-workers)
-2. [Setting Up Supervisor for Laravel Workers](#setting-up-supervisor-for-laravel-workers)
+2. [Setting Up Supervisor for Laravel Workers](#2-setting-up-supervisor-for-laravel-workers)
    - [Installing Supervisor](#installing-supervisor)
    - [Configuring Workers](#configuring-workers)
    - [Setting `numprocs`](#setting-numprocs)
-3. [Stopping All Workers for a Queue](#stopping-all-workers-for-a-queue)
-4. [Stopping Specific Workers for a Queue](#stopping-specific-workers-for-a-queue)
-5. [Starting Workers for a Queue](#starting-workers-for-a-queue)
-6. [Checking the Status of Workers](#checking-the-status-of-workers)
-7. [Graceful Shutdown and Process Management](#graceful-shutdown-and-process-management)
+3. [Stopping All Workers for a Queue](#3-stopping-all-workers-for-a-queue)
+4. [Stopping Specific Workers for a Queue](#4-stopping-specific-workers-for-a-queue)
+5. [Starting Workers for a Queue](#5-starting-workers-for-a-queue)
+6. [Checking the Status of Workers](#6-checking-the-status-of-workers)
+7. [Graceful Shutdown and Process Management](#7-graceful-shutdown-and-process-management)
 
 ---
 
